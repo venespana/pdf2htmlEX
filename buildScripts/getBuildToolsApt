@@ -30,6 +30,5 @@ apt $UNATTENDED install \
   dpkg                           \
   dpkg-dev                       \
   gettext                        \
-#  openjdk-8-jre-headless         \
   jq
-
+#  openjdk-8-jre-headless         
