@@ -14,8 +14,8 @@ echo ""
 
 set -ev
 
-sudo apt-get update
-sudo apt-get $UNATTENDED install \
+apt update
+apt $UNATTENDED install \
   sudo                           \
   wget                           \
   git                            \
